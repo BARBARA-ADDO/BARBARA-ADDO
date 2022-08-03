@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BARBARA-ADDO
+- 👋 Hi, I’m Barbara Addo
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python, SQL, Excel and Power BI
